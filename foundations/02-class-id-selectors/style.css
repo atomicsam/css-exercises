@@ -1,0 +1,20 @@
+.oddnumber {
+	background-color: #F88379;
+	font-family: 'Verdana', 'sans-serif';
+}
+
+#element2 {
+	color: rgb(135, 206, 235);
+	font-size: 36px;
+}
+
+#element3, #element4 {
+	font-size: 24px;
+}
+
+#element4 {
+	background-color:  hsl(88,95%,34%);
+	font-weight: 700;
+}
+
+

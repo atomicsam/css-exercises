@@ -3,9 +3,6 @@
   color: hsl(0, 100%, 50%);
 }
 
-.small-para {
-  font-size: 12px;
-}
 
 .para {
   font-size: 22px;
@@ -32,4 +29,8 @@
 div.text {
   color: green;
   font-size: 28px;
+}
+
+.small-para {
+  font-size: 12px;
 }
